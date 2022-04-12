@@ -4,7 +4,7 @@
 成品下載：https://drive.google.com/file/d/1-qD_HmM7QyOLGz3rqgrObHuWLPAPltdK/view?usp=sharing<br>
 程式語言：C++/CLI<br>
 框架：Windows Forms<br>
-![Image](https://github.com/lksj51790q/mario-bros-go-downstairs/blob/main/MarioBroDemo.gif)<br>
+<img src="https://github.com/lksj51790q/mario-bros-go-downstairs/blob/main/MarioBroDemo.gif" width="400"><br>
 ## 遊戲介紹
 ### 主介面
 主介面可以選擇單人或雙人模式遊玩，將滑鼠游標移至選項時會顯示操作提示。
